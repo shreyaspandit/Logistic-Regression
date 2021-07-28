@@ -1,2 +1,3 @@
-# Simple-Logistic-Regression
-Logistic regression for binary classification using gradient descent.
+# Logistic Regression
+
+Currently contains Python implementation of binary classification using logistic regression.
